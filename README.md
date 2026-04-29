@@ -18,12 +18,16 @@ Outer loop runs first → i = 0
 Then inner loop runs completely → j = 0, 1
 
 Then outer loop moves → i = 1
+
 Inner loop runs again → j = 0, 1
+
 Then i = 2
+
 Inner loop runs again
 
 * In nested loops there are two types
-* 
-1)
+
+1) DEPENDENT LOOP -> inner loop runs with depending on outerloop
+2) INDEPENDENT LOOP -> inner loop runs without depending on outerloop
 
 
