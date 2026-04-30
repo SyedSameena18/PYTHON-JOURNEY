@@ -30,4 +30,8 @@ Inner loop runs again
 1) DEPENDENT LOOP -> inner loop runs with depending on outerloop
 2) INDEPENDENT LOOP -> inner loop runs without depending on outerloop
 
+# PYTHON DAY 3
+
+Day 3 learned about Strings and its built in functions
+
 
