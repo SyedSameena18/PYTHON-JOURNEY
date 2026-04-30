@@ -34,4 +34,6 @@ Inner loop runs again
 
 Day 3 learned about Strings and its built in functions
 
+* STRING - Collection of 
+
 
